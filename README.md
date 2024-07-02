@@ -1,0 +1,1 @@
+# riakbumi.my.id
