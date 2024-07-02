@@ -1,0 +1,134 @@
+[19-Dec-2023 08:41:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 08:44:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 08:51:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 08:52:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 08:57:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 09:05:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 09:08:59 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:08:59 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:09:03 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:09:03 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:09:03 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[19-Dec-2023 09:09:03 UTC] PHP Notice:  Undefined variable: tanggal in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[19-Dec-2023 09:09:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[19-Dec-2023 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/riakbumi/public_html/midtrans/Midtrans/Notification.php on line 26
+[19-Dec-2023 09:10:46 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:10:46 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:11:04 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:11:04 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[19-Dec-2023 09:11:04 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[19-Dec-2023 09:11:04 UTC] PHP Notice:  Undefined variable: tanggal in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[19-Dec-2023 09:11:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[20-Dec-2023 01:49:15 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[20-Dec-2023 01:49:15 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[20-Dec-2023 01:49:32 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[20-Dec-2023 01:49:32 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[20-Dec-2023 01:49:32 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[20-Dec-2023 01:49:32 UTC] PHP Notice:  Undefined variable: tanggal in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[20-Dec-2023 01:49:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[20-Dec-2023 03:08:00 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 43
+[29-Jan-2024 05:08:44 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 05:08:44 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 05:33:22 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 05:33:22 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:12:44 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:12:44 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:14:41 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:14:41 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:14:51 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:14:51 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:14:51 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:14:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:16:41 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:16:41 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:16:41 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:17:54 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:17:54 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:19:55 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:19:55 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:19:55 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:19:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:23:31 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:23:31 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:25:42 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:25:42 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:25:42 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:25:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:26:35 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:26:35 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 06:26:35 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 06:26:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 13:53:41 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:53:41 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:55:45 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:55:45 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:55:45 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 13:55:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 13:55:45 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:55:45 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:55:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:55:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 54
+[29-Jan-2024 13:56:27 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:56:27 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:58:20 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:58:20 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 13:58:20 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 13:58:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[29-Jan-2024 13:58:20 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:58:20 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:58:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[29-Jan-2024 13:58:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 54
+[29-Jan-2024 14:08:33 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 14:08:33 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 14:12:36 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 14:12:36 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 21:12:36 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[29-Jan-2024 21:12:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[29-Jan-2024 14:12:41 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 14:12:41 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[29-Jan-2024 21:12:41 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[29-Jan-2024 21:12:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[30-Jan-2024 05:34:15 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 05:34:15 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 05:34:15 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[30-Jan-2024 05:34:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[30-Jan-2024 05:34:15 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 05:34:15 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 05:34:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 05:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 54
+[30-Jan-2024 15:54:56 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:54:56 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:55:36 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:55:36 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 22:55:36 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[30-Jan-2024 22:55:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[30-Jan-2024 15:57:24 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:57:24 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:59:23 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:59:23 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[30-Jan-2024 15:59:23 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[30-Jan-2024 15:59:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[30-Jan-2024 15:59:23 UTC] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 15:59:23 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 15:59:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 53
+[30-Jan-2024 15:59:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 54
+[31-Jan-2024 08:00:53 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 08:00:53 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 08:01:04 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 08:01:04 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 15:01:04 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[31-Jan-2024 15:01:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[31-Jan-2024 08:05:00 UTC] PHP Warning:  include(/../../config/koneksi.php): failed to open stream: No such file or directory in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 08:05:00 UTC] PHP Warning:  include(): Failed opening '/../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 28
+[31-Jan-2024 15:05:00 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[31-Jan-2024 15:05:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 45
+[31-Jan-2024 12:21:35 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[31-Jan-2024 12:30:41 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[15-Feb-2024 16:21:36 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[23-Feb-2024 01:43:24 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[24-Feb-2024 01:41:20 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[20-Apr-2024 10:31:29 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[02-May-2024 16:00:11 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[02-May-2024 16:10:23 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
+[31-May-2024 16:56:18 UTC] PHP Notice:  Undefined variable: kode in /home/riakbumi/public_html/midtrans/examples/notification-handler.php on line 52
